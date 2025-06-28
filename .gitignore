@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# PyQt5 compiled resources
+*.qrc
+
+# SQLite memory DB or other data
+memory.db
+history.json
+
