@@ -2,7 +2,7 @@
 
 Emotional Virtual Intelligence - modular prototype.
 
-This application provides a PyQt5 dashboard to experiment with hormone levels and emotional visualization. Hormones are adjusted with sliders and their effect on emotions is displayed in a live radar chart. A simple chat interface stores all messages along with hormone states.
+This application provides a PyQt5 dashboard to experiment with hormone levels and emotional visualization. Hormones are adjusted with sliders and their effect on emotions is displayed in a live radar chart. A simple chat interface stores all messages along with hormone states. A settings tab allows configuration of the LLM API key and the initial context prompt.
 
 Run the GUI:
 
