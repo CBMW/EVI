@@ -17,6 +17,6 @@ Dependencies are listed in requirements.txt.
 Create a framework that enhances LLM-based artificial intelligence by incorporating emotion into chat, decision-making, and memory.
 
 ## Use cases include:
-• emotionally aware companion AI  
-• ethically influenced reasoning through emotion  
-• accessibility support for individuals with mental health challenges or cognitive impairments  
+• emotionally aware companion AI   
+• ethically influenced reasoning through emotion    
+• accessibility support for individuals with mental health challenges or cognitive impairments    
