@@ -11,6 +11,7 @@ To start the GUI:
 ```bash
 python evi_gui.py
 Dependencies are listed in requirements.txt.
+```
 
 ## Project Goals
 Create a framework that enhances LLM-based artificial intelligence by incorporating emotion into chat, decision-making, and memory.
